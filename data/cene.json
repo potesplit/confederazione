@@ -1,1 +1,165 @@
-[]
+[
+  {
+    "titolo": "Cena TAVERNA 13 sett.",
+    "sconti": {
+      "antipasto": 0,
+      "primi": 50,
+      "secondi": 50,
+      "contorni": 50,
+      "pizza": 50,
+      "panini": 50,
+      "frutta": 0,
+      "acqua": 0,
+      "caffe": 0,
+      "bibite": 0,
+      "birra": 0,
+      "vino": 0,
+      "liquori": 0,
+      "menu": 0,
+      "coperto": 0,
+      "dolci": 50
+    },
+    "persone": [
+      {
+        "nome": "Andrea",
+        "antipasto": 0,
+        "primi": 12,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Fabrizio",
+        "antipasto": 2.2,
+        "primi": 12,
+        "secondi": 12,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 3,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Filippo",
+        "antipasto": 3,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Flavio",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Lorenzo",
+        "antipasto": 2.2,
+        "primi": 12,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 21,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 3,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      }
+    ],
+    "speseCondivise": [
+      {
+        "descrizione": "coperto",
+        "tipo": "persona",
+        "importo": 2,
+        "partecipanti": [
+          "Andrea",
+          "Fabrizio",
+          "Filippo",
+          "Flavio",
+          "Lorenzo"
+        ],
+        "colonna": "coperto"
+      },
+      {
+        "descrizione": "acqua",
+        "tipo": "divisa",
+        "importo": 4,
+        "partecipanti": [
+          "Andrea",
+          "Fabrizio",
+          "Filippo",
+          "Flavio",
+          "Lorenzo"
+        ],
+        "colonna": "acqua"
+      },
+      {
+        "descrizione": "tiramisu",
+        "tipo": "divisa",
+        "importo": 21,
+        "partecipanti": [
+          "Andrea",
+          "Filippo",
+          "Lorenzo"
+        ],
+        "colonna": "dolci"
+      }
+    ],
+    "pagatori": [
+      {
+        "nome": "Andrea",
+        "importo": 77.9
+      }
+    ]
+  }
+]
