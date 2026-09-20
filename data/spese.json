@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "nome": "Filippo",
+    "descrizione": "Biliardo 20 settembre",
+    "importo": 11,
+    "partecipanti": [
+      "Carlo",
+      "Fabrizio",
+      "Filippo",
+      "Lorenzo"
+    ],
+    "gruppoId": "gmuab8opomjxuto"
+  }
+]
