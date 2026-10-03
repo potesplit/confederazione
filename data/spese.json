@@ -10,5 +10,16 @@
       "Lorenzo"
     ],
     "gruppoId": "gmuab8opomjxuto"
+  },
+  {
+    "nome": "Fabrizio",
+    "descrizione": "Acqua a pisana 3 ottobre",
+    "importo": 0.8,
+    "partecipanti": [
+      "Andrea",
+      "Fabrizio",
+      "Filippo"
+    ],
+    "gruppoId": "gmusiaszdnn7jcm"
   }
 ]
