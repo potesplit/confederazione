@@ -104,5 +104,124 @@
         "importo": 28
       }
     ]
+  },
+  {
+    "titolo": "Cena taverna 18 ottobre",
+    "sconti": {
+      "antipasto": 50,
+      "primi": 0,
+      "secondi": 50,
+      "contorni": 50,
+      "pizza": 50,
+      "panini": 0,
+      "frutta": 0,
+      "acqua": 0,
+      "caffe": 0,
+      "bibite": 0,
+      "birra": 0,
+      "vino": 0,
+      "liquori": 0,
+      "menu": 0,
+      "coperto": 0,
+      "dolci": 0
+    },
+    "persone": [
+      {
+        "nome": "Carlo",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 20,
+        "contorni": 6,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Fabrizio",
+        "antipasto": 6,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 11,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Filippo",
+        "antipasto": 6,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 12,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 7
+      },
+      {
+        "nome": "Lorenzo",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 16,
+        "contorni": 7,
+        "pizza": 0,
+        "panini": 2.2,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 7
+      }
+    ],
+    "speseCondivise": [
+      {
+        "descrizione": "S",
+        "tipo": "persona",
+        "importo": 2,
+        "partecipanti": [
+          "Carlo",
+          "Fabrizio",
+          "Filippo",
+          "Lorenzo"
+        ],
+        "colonna": "coperto"
+      }
+    ],
+    "pagatori": [
+      {
+        "nome": "Fabrizio",
+        "importo": 71.2
+      }
+    ]
   }
 ]
