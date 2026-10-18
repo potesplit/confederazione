@@ -21,5 +21,17 @@
       "Filippo"
     ],
     "gruppoId": "gmusiaszdnn7jcm"
+  },
+  {
+    "nome": "Carlo",
+    "descrizione": "Biliardo 18 ottobre",
+    "importo": 14,
+    "partecipanti": [
+      "Carlo",
+      "Fabrizio",
+      "Filippo",
+      "Lorenzo"
+    ],
+    "gruppoId": "gmveaio53qi1d1j"
   }
 ]
