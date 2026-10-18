@@ -123,7 +123,7 @@
       "liquori": 0,
       "menu": 0,
       "coperto": 0,
-      "dolci": 0
+      "dolci": 50
     },
     "persone": [
       {
@@ -187,13 +187,13 @@
         "nome": "Lorenzo",
         "antipasto": 0,
         "primi": 0,
-        "secondi": 16,
+        "secondi": 0,
         "contorni": 7,
         "pizza": 0,
         "panini": 2.2,
         "frutta": 0,
         "acqua": 0,
-        "caffe": 0,
+        "caffe": 16,
         "bibite": 0,
         "birra": 0,
         "vino": 0,
@@ -215,6 +215,18 @@
           "Lorenzo"
         ],
         "colonna": "coperto"
+      },
+      {
+        "descrizione": "Acqua",
+        "tipo": "divisa",
+        "importo": 4,
+        "partecipanti": [
+          "Carlo",
+          "Fabrizio",
+          "Filippo",
+          "Lorenzo"
+        ],
+        "colonna": "acqua"
       }
     ],
     "pagatori": [
